@@ -1,5 +1,3 @@
-# desaleaditya1896.github.io
-
 # Dataset Name - Covid-19
 ## URL - https://github.com/datasets/covid-19
 
