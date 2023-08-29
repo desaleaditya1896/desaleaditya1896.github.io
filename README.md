@@ -33,12 +33,12 @@ The book is best suited for those who are new to data science and want a broad o
 
 4) Data Visualization - Tools and technogies such as matplotlib,seaborn to create effective visualiztions for communicate insights from data.
 
-5)Big Data Engineering - Introduction to handling large and complex datasets using tools like hadoop,spark and the concepts related to 
+5) Big Data Engineering - Introduction to handling large and complex datasets using tools like hadoop,spark and the concepts related to 
 data warehousing and data pipelines.
 
 6) Communication and representation - Tips and stategies to provide data insights to stakeholders by providing compelling data visualizations.
 
-7)Emerging Trends - Future trends in big data such as deep learning,artificial intellegence and the integration of data science in various sectors.
+7) Emerging Trends - Future trends in big data such as deep learning,artificial intellegence and the integration of data science in various sectors.
 
 Overall, the book offers a thorough introduction to data science and the skills needed to start a career in the industry.
 
