@@ -1,14 +1,14 @@
 # desaleaditya1896.github.io
 
-#Dataset Name - Covid-19
-##URL - https://github.com/datasets/covid-19
+# Dataset Name - Covid-19
+## URL - https://github.com/datasets/covid-19
 
 The time-series-19-covid-combined table in the covid-19 dataset contains data on country-specific covid-19 instances.This time series data provides below information:
 1)show how many people have been impacted by COVID-19 globally.
 2)the number of people who supposedly passed away after contracting the coronavirus.
 3)how many of them have reportedly made a full recovery.
 
-##Potential applications and values:-
+## Potential applications and values:-
 1) Comparative analysis:-The table includes statistics like the numberof deaths reported and the number of confirmed covid cases that were registered .We can research a country's death
  and recovery rates using this data.This study can help us compare the data of high-recovery countries with high-mortality nations, allowing us to evaluate the
  practices employed by high-recovery nations and implement or recommend those practices to nations with high mortality rates in an effort to lower their death rate. 
